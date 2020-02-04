@@ -1,3 +1,4 @@
 cache/
 data/
 Project/.ipynb_checkpoints/
+Project/train/__pycache__/
